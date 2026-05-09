@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+# Photos are too large for git — stored in Google Drive only
+Photos/
+
+# Empty placeholder folders
+Fonts/
